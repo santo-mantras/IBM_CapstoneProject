@@ -1,0 +1,8 @@
+This IBM Capstone project is divided into 4 modules. Each module has following jupyter notebook python files associated -
+
+1. Module 1 - Data Collection : Contains three python notebook named as MOD1_Data_Collection, MOD1_Data Collection_02 and MOD1_Data_Wrangling respectively.
+2. Module 2 - Exploratory Data Analysis (EDA) : Contains two python notebook named as MOD2_EDA_SQL and MOD2_Python respectively.
+3. Module 3 - Mapping/Dashboard -  Contains one python notebook named as MOD3_Mapping.
+4. Module 4 - Prediction - Contains one python notebook named as MOD4_Prediction.
+
+Along with the above mentioned, A powerpoint presentation file is also included which encapsulate the entire SpaceX Classification Prediction Project.
